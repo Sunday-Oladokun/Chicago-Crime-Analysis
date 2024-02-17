@@ -1,4 +1,4 @@
-# Chicago-Crime-Analysis
+# CHICAGO CRIME ANALYSIS
 
 This project explored the analysis of crime data sourced from Chicago, aiming to unveil intriguing insights into the city's criminal landscape. Through examination, three key inquiries guided this exploration:
 1.	The frequency of crime distributed within Months, Days, Seasons.
@@ -20,4 +20,5 @@ Feature engineering: For the analysis I carried out on this data, I needed to ge
 
 # CONCLUSION OF THE PROJECT:
 In assessing whether there have been shifts in the landscape of criminal activity over time, the analysis reveals that while the specific types of crimes have persisted, their occurrence has shown a notable decrease over the years. Focusing on theft, which emerges as the predominant offense, a discernible pattern emerges. Initially, theft rates exhibited a sharp incline, peaking in approximately 2005 at a frequency of approximately 70 instances, with slight fluctuations around this apex. However, subsequent years witnessed a gradual but consistent decline, with occurrences diminishing to approximately 10 past the year 2020.
+
 Similar trends are observed across other categories of crime, with notable spikes occurring around the year 2005, followed by a parallel trajectory of decline. Ultimately, while the frequency of criminal incidents has evolved over time, the fundamental composition of criminal activities has remained largely consistent.
